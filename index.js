@@ -1,1 +1,1 @@
-require('./section5/count-unique-values');
+require('./section5/are-three-duplicates');
