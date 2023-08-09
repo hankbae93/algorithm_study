@@ -1,1 +1,2 @@
-require('./section5/are-three-duplicates');
+// require('./section5/average-pair');
+require('./section5/is-subsequence');
