@@ -1,1 +1,1 @@
-require('./section6-recursion/helper-method-recursion');
+require('./section6-recursion/bonus-quiz');
